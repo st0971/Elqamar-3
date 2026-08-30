@@ -21,6 +21,7 @@
 
         <nav>
 
+
             <button
                 class="nav-btn active"
                 onclick="showPage('poster', this)">
@@ -41,11 +42,21 @@
 
             <button
                 class="nav-btn"
+                onclick="showPage('illustration', this)">
+
+                插畫
+
+            </button>
+
+
+            <button
+                class="nav-btn"
                 onclick="showPage('other', this)">
 
                 其他
 
             </button>
+
 
         </nav>
 
@@ -72,129 +83,26 @@
 
             <h1 class="page-title">
 
-                海報
+                海報(文案：AI輔助生成)
 
             </h1>
 
 
+            <!-- JavaScript 自動產生作品 -->
 
-            <div class="gallery">
-
-
-
-                <!-- =========================================
-                     海報 01
-                     ========================================= -->
-
-                <div class="work">
-
-                    <div class="image-box poster-box">
-
-                        <img
-                            src="images/poster/poster01.jpg"
-                            alt="海報作品 01">
-
-
-                        <!--
-                        如果這張作品需要 AI 標誌，
-                        就保留這一段。
-                        -->
-
-                        <div class="ai-badge">
-
-                            AI
-
-                        </div>
-
-                    </div>
-
-
-                    <div class="description">
-
-                        海報作品 01
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- =========================================
-                     海報 02
-                     ========================================= -->
-
-                <div class="work">
-
-                    <div class="image-box poster-box">
-
-                        <img
-                            src="images/poster/poster02.jpg"
-                            alt="海報作品 02">
-
-                    </div>
-
-
-                    <div class="description">
-
-                        海報作品 02
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- =========================================
-                     海報 03
-                     ========================================= -->
-
-                <div class="work">
-
-                    <div class="image-box poster-box">
-
-                        <img
-                            src="images/poster/poster03.jpg"
-                            alt="海報作品 03">
-
-                    </div>
-
-
-                    <div class="description">
-
-                        海報作品 03
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- =========================================
-                     海報 04
-                     ========================================= -->
-
-                <div class="work">
-
-                    <div class="image-box poster-box">
-
-                        <img
-                            src="images/poster/poster04.jpg"
-                            alt="海報作品 04">
-
-                    </div>
-
-
-                    <div class="description">
-
-                        海報作品 04
-
-                    </div>
-
-                </div>
-
-
-
+            <div
+                id="poster-gallery"
+                class="gallery">
             </div>
+
+
+            <!-- JavaScript 自動產生頁碼 -->
+
+            <div
+                id="poster-pagination"
+                class="pagination">
+            </div>
+
 
         </section>
 
@@ -211,129 +119,54 @@
 
             <h1 class="page-title">
 
-                名片
+                名片(文案：AI輔助生成)
 
             </h1>
 
 
-
-            <div class="gallery">
-
-
-
-                <!-- =========================================
-                     名片 01
-                     ========================================= -->
-
-                <div class="work">
-
-                    <div class="image-box business-box">
-
-                        <img
-                            src="images/business/card01.jpg"
-                            alt="名片作品 01">
-
-
-                        <!--
-                        如果這張作品需要 AI 標誌，
-                        可以放在這裡。
-                        -->
-
-                        <div class="ai-badge">
-
-                            AI
-
-                        </div>
-
-                    </div>
-
-
-                    <div class="description">
-
-                        名片作品 01
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- =========================================
-                     名片 02
-                     ========================================= -->
-
-                <div class="work">
-
-                    <div class="image-box business-box">
-
-                        <img
-                            src="images/business/card02.jpg"
-                            alt="名片作品 02">
-
-                    </div>
-
-
-                    <div class="description">
-
-                        名片作品 02
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- =========================================
-                     名片 03
-                     ========================================= -->
-
-                <div class="work">
-
-                    <div class="image-box business-box">
-
-                        <img
-                            src="images/business/card03.jpg"
-                            alt="名片作品 03">
-
-                    </div>
-
-
-                    <div class="description">
-
-                        名片作品 03
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- =========================================
-                     名片 04
-                     ========================================= -->
-
-                <div class="work">
-
-                    <div class="image-box business-box">
-
-                        <img
-                            src="images/business/card04.jpg"
-                            alt="名片作品 04">
-
-                    </div>
-
-
-                    <div class="description">
-
-                        名片作品 04
-
-                    </div>
-
-                </div>
-
-
-
+            <div
+                id="business-gallery"
+                class="gallery">
             </div>
+
+
+            <div
+                id="business-pagination"
+                class="pagination">
+            </div>
+
+
+        </section>
+
+
+
+        <!-- =================================================
+             插畫
+             ================================================= -->
+
+        <section
+            id="illustration"
+            class="page">
+
+
+            <h1 class="page-title">
+
+                插畫
+
+            </h1>
+
+
+            <div
+                id="illustration-gallery"
+                class="gallery">
+            </div>
+
+
+            <div
+                id="illustration-pagination"
+                class="pagination">
+            </div>
+
 
         </section>
 
@@ -355,106 +188,17 @@
             </h1>
 
 
-
-            <div class="other-gallery">
-
-
-
-                <!-- =========================================
-                     左邊：直式作品
-                     ========================================= -->
-
-                <div class="other-column">
-
-
-                    <div class="other-title">
-
-                        直式作品
-
-                    </div>
-
-
-
-                    <div class="image-box vertical-box">
-
-                        <img
-                            src="images/other/vertical.jpg"
-                            alt="直式作品">
-
-
-                        <!--
-                        如果這張作品需要 AI，
-                        可以在這裡加入：
-
-                        <div class="ai-badge">
-                            AI
-                        </div>
-
-                        -->
-
-                    </div>
-
-
-
-                    <div class="description">
-
-                        直式作品
-
-                    </div>
-
-
-                </div>
-
-
-
-                <!-- =========================================
-                     右邊：橫式作品
-                     ========================================= -->
-
-                <div class="other-column">
-
-
-                    <div class="other-title">
-
-                        橫式作品
-
-                    </div>
-
-
-
-                    <div class="image-box horizontal-box">
-
-                        <img
-                            src="images/other/horizontal.jpg"
-                            alt="橫式作品">
-
-
-                        <!--
-                        如果這張作品需要 AI，
-                        可以在這裡加入：
-
-                        <div class="ai-badge">
-                            AI
-                        </div>
-
-                        -->
-
-                    </div>
-
-
-
-                    <div class="description">
-
-                        橫式作品
-
-                    </div>
-
-
-                </div>
-
-
-
+            <div
+                id="other-gallery"
+                class="gallery">
             </div>
+
+
+            <div
+                id="other-pagination"
+                class="pagination">
+            </div>
+
 
         </section>
 
