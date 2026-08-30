@@ -189,7 +189,7 @@
 
                 {
                     image:
-                        "images/poster/0818海報搭配調色.png",
+                        "images/poster/0818海報搭配調色.jpg",
 
                     title:
                         "0818(教學臨摹)",
@@ -199,7 +199,7 @@
                 },
                 {
                     image:
-                        "images/poster/0818海報搭配調色-2.png",
+                        "images/poster/0818海報搭配調色-2.jpg",
 
                     title:
                         "0818(教學臨摹)",
@@ -210,7 +210,7 @@
 
                 {
                     image:
-                        "images/poster/0819-2.png",
+                        "images/poster/0819-2.jpg",
 
                     title:
                         "0819",
@@ -221,7 +221,7 @@
 
                 {
                     image:
-                        "images/poster/0820.png",
+                        "images/poster/0820.jpg",
 
                     title:
                         "0820",
@@ -232,7 +232,7 @@
 
                 {
                     image:
-                        "images/poster/0821.png",
+                        "images/poster/0821.jpg",
 
                     title:
                         "0821",
@@ -242,7 +242,7 @@
                 },
                 {
                     image:
-                        "images/poster/0822.png",
+                        "images/poster/0822.jpg",
 
                     title:
                         "0822",
@@ -252,7 +252,7 @@
                 },
                 {
                     image:
-                        "images/poster/0824-1.png",
+                        "images/poster/0824-1.jpg",
 
                     title:
                         "0824-1",
@@ -262,7 +262,7 @@
                 },
                 {
                     image:
-                        "images/poster/0825.png",
+                        "images/poster/0825.jpg",
 
                     title:
                         "0825",
@@ -272,7 +272,7 @@
                 },
                 {
                     image:
-                        "images/poster/0826-2.png",
+                        "images/poster/0826-2.jpg",
 
                     title:
                         "0826-2",
@@ -282,7 +282,7 @@
                 },
                 {
                     image:
-                        "images/poster/0827.png",
+                        "images/poster/0827.jpg",
 
                     title:
                         "0827",
@@ -292,7 +292,7 @@
                 },
                 {
                     image:
-                        "images/poster/0828.png",
+                        "images/poster/0828.jpg",
 
                     title:
                         "0828",
@@ -302,7 +302,7 @@
                 },
                 {
                     image:
-                        "images/poster/0829.png",
+                        "images/poster/0829.jpg",
 
                     title:
                         "0829",
@@ -961,7 +961,7 @@
 
                 {
                     image:
-                        "images/w/貓貓排版.png",
+                        "images/w/貓貓排版.jpg",
 
                     title:
                         "FAN ART｜粉絲二創"
