@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elqamar</title>
+    <link rel="icon" type="image/png" sizes="16x25" href="images/紅印.png">
+    <link rel="icon" type="image/png" sizes="32x40" href="images/紅印.png">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+
+
+<body>
+
+
+    <!-- =========================
+         導覽列
+         ========================= -->
+
+    <header>
+
+        <nav>
+
+            <button
+                class="nav-btn active"
+                onclick="showPage('poster', this)">
+
+                海報
+
+            </button>
+
+
+            <button
+                class="nav-btn"
+                onclick="showPage('business', this)">
+
+                名片
+
+            </button>
+
+
+            <button
+                class="nav-btn"
+                onclick="showPage('other', this)">
+
+                其他
+
+            </button>
+
+        </nav>
+
+    </header>
+
+
+
+    <!-- =====================================================
+         主要內容
+         ===================================================== -->
+
+    <main>
+
+
+
+        <!-- =================================================
+             海報
+             ================================================= -->
+
+        <section
+            id="poster"
+            class="page active">
+
+
+            <h1 class="page-title">
+
+                海報
+
+            </h1>
+
+
+
+            <div class="gallery">
+
+
+
+                <!-- =========================================
+                     海報 01
+                     ========================================= -->
+
+                <div class="work">
+
+                    <div class="image-box poster-box">
+
+                        <img
+                            src="images/poster/poster01.jpg"
+                            alt="海報作品 01">
+
+
+                        <!--
+                        如果這張作品需要 AI 標誌，
+                        就保留這一段。
+                        -->
+
+                        <div class="ai-badge">
+
+                            AI
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="description">
+
+                        海報作品 01
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- =========================================
+                     海報 02
+                     ========================================= -->
+
+                <div class="work">
+
+                    <div class="image-box poster-box">
+
+                        <img
+                            src="images/poster/poster02.jpg"
+                            alt="海報作品 02">
+
+                    </div>
+
+
+                    <div class="description">
+
+                        海報作品 02
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- =========================================
+                     海報 03
+                     ========================================= -->
+
+                <div class="work">
+
+                    <div class="image-box poster-box">
+
+                        <img
+                            src="images/poster/poster03.jpg"
+                            alt="海報作品 03">
+
+                    </div>
+
+
+                    <div class="description">
+
+                        海報作品 03
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- =========================================
+                     海報 04
+                     ========================================= -->
+
+                <div class="work">
+
+                    <div class="image-box poster-box">
+
+                        <img
+                            src="images/poster/poster04.jpg"
+                            alt="海報作品 04">
+
+                    </div>
+
+
+                    <div class="description">
+
+                        海報作品 04
+
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =================================================
+             名片
+             ================================================= -->
+
+        <section
+            id="business"
+            class="page">
+
+
+            <h1 class="page-title">
+
+                名片
+
+            </h1>
+
+
+
+            <div class="gallery">
+
+
+
+                <!-- =========================================
+                     名片 01
+                     ========================================= -->
+
+                <div class="work">
+
+                    <div class="image-box business-box">
+
+                        <img
+                            src="images/business/card01.jpg"
+                            alt="名片作品 01">
+
+
+                        <!--
+                        如果這張作品需要 AI 標誌，
+                        可以放在這裡。
+                        -->
+
+                        <div class="ai-badge">
+
+                            AI
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="description">
+
+                        名片作品 01
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- =========================================
+                     名片 02
+                     ========================================= -->
+
+                <div class="work">
+
+                    <div class="image-box business-box">
+
+                        <img
+                            src="images/business/card02.jpg"
+                            alt="名片作品 02">
+
+                    </div>
+
+
+                    <div class="description">
+
+                        名片作品 02
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- =========================================
+                     名片 03
+                     ========================================= -->
+
+                <div class="work">
+
+                    <div class="image-box business-box">
+
+                        <img
+                            src="images/business/card03.jpg"
+                            alt="名片作品 03">
+
+                    </div>
+
+
+                    <div class="description">
+
+                        名片作品 03
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- =========================================
+                     名片 04
+                     ========================================= -->
+
+                <div class="work">
+
+                    <div class="image-box business-box">
+
+                        <img
+                            src="images/business/card04.jpg"
+                            alt="名片作品 04">
+
+                    </div>
+
+
+                    <div class="description">
+
+                        名片作品 04
+
+                    </div>
+
+                </div>
+
+
+
+            </div>
+
+        </section>
+
+
+
+        <!-- =================================================
+             其他
+             ================================================= -->
+
+        <section
+            id="other"
+            class="page">
+
+
+            <h1 class="page-title">
+
+                其他
+
+            </h1>
+
+
+
+            <div class="other-gallery">
+
+
+
+                <!-- =========================================
+                     左邊：直式作品
+                     ========================================= -->
+
+                <div class="other-column">
+
+
+                    <div class="other-title">
+
+                        直式作品
+
+                    </div>
+
+
+
+                    <div class="image-box vertical-box">
+
+                        <img
+                            src="images/other/vertical.jpg"
+                            alt="直式作品">
+
+
+                        <!--
+                        如果這張作品需要 AI，
+                        可以在這裡加入：
+
+                        <div class="ai-badge">
+                            AI
+                        </div>
+
+                        -->
+
+                    </div>
+
+
+
+                    <div class="description">
+
+                        直式作品
+
+                    </div>
+
+
+                </div>
+
+
+
+                <!-- =========================================
+                     右邊：橫式作品
+                     ========================================= -->
+
+                <div class="other-column">
+
+
+                    <div class="other-title">
+
+                        橫式作品
+
+                    </div>
+
+
+
+                    <div class="image-box horizontal-box">
+
+                        <img
+                            src="images/other/horizontal.jpg"
+                            alt="橫式作品">
+
+
+                        <!--
+                        如果這張作品需要 AI，
+                        可以在這裡加入：
+
+                        <div class="ai-badge">
+                            AI
+                        </div>
+
+                        -->
+
+                    </div>
+
+
+
+                    <div class="description">
+
+                        橫式作品
+
+                    </div>
+
+
+                </div>
+
+
+
+            </div>
+
+        </section>
+
+
+    </main>
+
+
+    <footer>
+        © 2026 Elqamar
+    </footer>
+    <script>
+    // 禁用右鍵
+    document.addEventListener('contextmenu', function (e) {
+        e.preventDefault();
+    });
+
+    // 禁用 F12 與 Ctrl+Shift+I 等
+    document.addEventListener('keydown', function (e) {
+        if (
+        e.key === 'F12' ||
+        (e.ctrlKey && e.shiftKey && (e.key === 'I' || e.key === 'J' || e.key === 'C')) ||
+        (e.ctrlKey && e.key === 'U')
+        ) {
+        e.preventDefault();
+        }
+    });
+    </script>
+    <script src="js/index.js"></script>
+
+    
+
+</body>
+</html>

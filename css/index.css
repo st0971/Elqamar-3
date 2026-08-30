@@ -1,0 +1,532 @@
+ /* =====================================================
+           基本設定
+        ===================================================== */
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+
+        body {
+
+            font-family:
+                "Noto Sans TC",
+                "Microsoft JhengHei",
+                Arial,
+                sans-serif;
+
+            background: #F5FAFD;
+
+            color: #294352;
+
+            min-height: 100vh;
+        }
+
+
+
+        /* =====================================================
+           導覽列
+        ===================================================== */
+
+        header {
+
+            width: 100%;
+
+            height: 72px;
+
+            background: #FFFFFF;
+
+            border-bottom:
+                1px solid #D8E8F0;
+
+            display: flex;
+
+            justify-content: center;
+
+            align-items: center;
+
+            position: sticky;
+
+            top: 0;
+
+            z-index: 100;
+        }
+
+
+        nav {
+
+            display: flex;
+
+            align-items: center;
+
+            gap: 60px;
+        }
+
+
+        nav button {
+
+            border: none;
+
+            background: transparent;
+
+            color: #587180;
+
+            font-family: inherit;
+
+            font-size: 18px;
+
+            font-weight: 600;
+
+            cursor: pointer;
+
+            padding: 10px 5px;
+
+            position: relative;
+
+            transition: 0.25s ease;
+        }
+
+
+        nav button:hover {
+
+            color: #246B8F;
+        }
+
+
+        nav button.active {
+
+            color: #246B8F;
+        }
+
+
+        /*
+        使用「顏色＋底線」表示目前所在頁面，
+        不單純依靠紅色或綠色。
+        */
+
+        nav button.active::after {
+
+            content: "";
+
+            position: absolute;
+
+            left: 0;
+
+            right: 0;
+
+            bottom: 0;
+
+            height: 3px;
+
+            background: #4D91B3;
+
+            border-radius: 10px;
+        }
+
+
+
+        /* =====================================================
+           主要內容
+        ===================================================== */
+
+        main {
+
+            width: min(1400px, 92%);
+
+            margin: 0 auto;
+
+            padding:
+                65px 0 100px;
+        }
+
+
+
+        /* =====================================================
+           頁面
+        ===================================================== */
+
+        .page {
+
+            display: none;
+        }
+
+
+        .page.active {
+
+            display: block;
+        }
+
+
+
+        /* =====================================================
+           主標
+        ===================================================== */
+
+        .page-title {
+
+            text-align: center;
+
+            font-size: 38px;
+
+            font-weight: 700;
+
+            letter-spacing: 2px;
+
+            color: #294F63;
+
+            margin-bottom: 55px;
+        }
+
+
+
+        /* =====================================================
+           海報／名片作品排列
+        ===================================================== */
+
+        .gallery {
+
+            display: grid;
+
+            grid-template-columns:
+                repeat(4, 1fr);
+
+            gap:
+                50px 30px;
+        }
+
+
+
+        /* =====================================================
+           單一作品
+        ===================================================== */
+
+        .work {
+
+            width: 100%;
+        }
+
+
+
+        /* =====================================================
+           圖片區塊
+        ===================================================== */
+
+        .image-box {
+
+            width: 100%;
+
+            position: relative;
+
+            overflow: hidden;
+
+            background: #E8F4F9;
+
+            border:
+                1px solid #C8DFE9;
+
+            border-radius: 8px;
+
+            transition:
+                transform 0.25s ease,
+                box-shadow 0.25s ease,
+                border-color 0.25s ease;
+        }
+
+
+        .image-box:hover {
+
+            transform:
+                translateY(-4px);
+
+            border-color:
+                #8DBDD1;
+
+            box-shadow:
+                0 8px 24px
+                rgba(42, 91, 115, 0.13);
+        }
+
+
+        /* =====================================================
+           海報比例
+        ===================================================== */
+
+        .poster-box {
+
+            aspect-ratio: 3 / 4;
+        }
+
+
+
+        /* =====================================================
+           名片比例
+        ===================================================== */
+
+        .business-box {
+
+            aspect-ratio: 1.75 / 1;
+        }
+
+
+
+        /* =====================================================
+           圖片
+        ===================================================== */
+
+        .image-box img {
+
+            width: 100%;
+
+            height: 100%;
+
+            display: block;
+
+            object-fit: cover;
+        }
+
+
+
+        /* =====================================================
+           AI 圓形標誌
+           
+           重要：
+           AI 現在是「單一圖片」的一部分。
+           
+           只要把 .ai-badge 放進某個 image-box，
+           AI 就會出現在那張圖片右上角。
+        ===================================================== */
+
+        .ai-badge {
+
+            width: 52px;
+
+            height: 52px;
+
+            border-radius: 50%;
+
+            background: #DDF0F7;
+
+            border:
+                2px solid #80B6CB;
+
+            color: #28617B;
+
+            display: flex;
+
+            justify-content: center;
+
+            align-items: center;
+
+            font-size: 17px;
+
+            font-weight: 700;
+
+            position: absolute;
+
+            top: 12px;
+
+            right: 12px;
+
+            z-index: 5;
+        }
+
+
+
+        /* =====================================================
+           圖片下方文字
+        ===================================================== */
+
+        .description {
+
+            margin-top: 13px;
+
+            padding:
+                5px 10px;
+
+            min-height: 42px;
+
+            color: #435C6A;
+
+            font-size: 19px;
+
+            line-height: 1.5;
+
+            text-align: center;
+        }
+
+
+
+        /* =====================================================
+           其他頁面
+        ===================================================== */
+
+        .other-gallery {
+
+            display: grid;
+
+            grid-template-columns:
+                1fr 1fr;
+
+            gap: 50px;
+        }
+
+
+        .other-column {
+
+            width: 100%;
+        }
+
+
+        .other-title {
+
+            text-align: center;
+
+            color: #527080;
+
+            font-size: 20px;
+
+            font-weight: 600;
+
+            margin-bottom: 18px;
+        }
+
+
+
+        /* =====================================================
+           其他：直式
+        ===================================================== */
+
+        .vertical-box {
+
+            aspect-ratio: 3 / 4;
+        }
+
+
+
+        /* =====================================================
+           其他：橫式
+        ===================================================== */
+
+        .horizontal-box {
+
+            aspect-ratio: 16 / 9;
+        }
+
+
+
+        /* =====================================================
+           Footer
+        ===================================================== */
+
+        footer {
+
+            width: 100%;
+
+            background: #FFFFFF;
+
+            border-top:
+                1px solid #DCE9EF;
+
+            text-align: center;
+
+            padding: 30px;
+
+            color: #78909C;
+
+            font-size: 13px;
+        }
+
+
+
+        /* =====================================================
+           平板
+        ===================================================== */
+
+        @media (max-width: 1000px) {
+
+            .gallery {
+
+                grid-template-columns:
+                    repeat(2, 1fr);
+            }
+
+        }
+
+
+
+        /* =====================================================
+           手機
+        ===================================================== */
+
+        @media (max-width: 650px) {
+
+            header {
+
+                height: 64px;
+            }
+
+
+            nav {
+
+                gap: 28px;
+            }
+
+
+            nav button {
+
+                font-size: 15px;
+            }
+
+
+            main {
+
+                padding-top: 45px;
+            }
+
+
+            .page-title {
+
+                font-size: 30px;
+
+                margin-bottom: 38px;
+            }
+
+
+            .gallery {
+
+                grid-template-columns: 1fr;
+
+                gap: 40px;
+            }
+
+
+            .other-gallery {
+
+                grid-template-columns: 1fr;
+
+                gap: 45px;
+            }
+
+
+            .description {
+
+                font-size: 15px;
+            }
+
+
+            .ai-badge {
+
+                width: 45px;
+
+                height: 45px;
+
+                font-size: 15px;
+
+                top: 10px;
+
+                right: 10px;
+            }
+
+        }
