@@ -21,7 +21,7 @@
                         "images/poster/0731.png",
 
                     title:
-                        "0731",
+                        "MORNING BREW\n0731",
 
                     ai:
                         false
@@ -33,7 +33,7 @@
                         "images/poster/0801.png",
 
                     title:
-                        "0801",
+                        "SUMMER MUSIC FESTIVAL\n0801",
 
                     ai:
                         false
@@ -45,7 +45,7 @@
                         "images/poster/0802-1.png",
 
                     title:
-                        "0802-1",
+                        "SUMMER MUSIC FESTIVAL\n0802",
 
                     ai:
                         false
@@ -57,7 +57,7 @@
                         "images/poster/0802-2.png",
 
                     title:
-                        "0802-2",
+                        "SUMMER MUSIC FESTIVAL\n0802",
 
                     ai:
                         false
@@ -69,7 +69,7 @@
                         "images/poster/0803.png",
 
                     title:
-                        "0803",
+                        "LOST SIGNAL\n0803",
 
                     ai:
                         false
@@ -81,7 +81,7 @@
                         "images/poster/0805.png",
 
                     title:
-                        "0805",
+                        "AI FUTURE EXPO\n0805",
 
                     ai:
                         false
@@ -93,7 +93,7 @@
                         "images/poster/0806.png",
 
                     title:
-                        "0806",
+                        "SAVE OUR OCEAN\n0806",
                     ai:
                         false
                 },
@@ -104,7 +104,7 @@
                         "images/poster/0807.png",
 
                     title:
-                        "0807",
+                        "ÉCLAT\n0807",
 
                     ai:
                         false
@@ -115,7 +115,7 @@
                         "images/poster/0809.png",
 
                     title:
-                        "0809",
+                        "ÉCLAT\n0809",
 
                     ai:
                         false
@@ -126,7 +126,7 @@
                         "images/poster/0810.png",
 
                     title:
-                        "0810",
+                        "日光咖啡所\n0810",
 
                     ai:
                         false
@@ -137,7 +137,7 @@
                         "images/poster/0811.png",
 
                     title:
-                        "0811",
+                        "秋日微醺\n0811",
 
                     ai:
                         false
@@ -148,7 +148,7 @@
                         "images/poster/0812.png",
 
                     title:
-                        "0812",
+                        "最後一班車\n0812",
 
                     ai:
                         false
@@ -159,7 +159,7 @@
                         "images/poster/0813.png",
 
                     title:
-                        "0813",
+                        "IF I TURNED BACK\n0813",
 
                     ai:
                         false
@@ -170,7 +170,7 @@
                         "images/poster/0814.png",
 
                     title:
-                        "0814",
+                        "FIRST MIST\n0814",
 
                     ai:
                         false
@@ -181,7 +181,7 @@
                         "images/poster/0817.png",
 
                     title:
-                        "0817(Dessert imagery generated with AI)",
+                        "月光甜室\n0817(Dessert imagery generated with AI)",
 
                     ai:
                         false
@@ -192,7 +192,7 @@
                         "images/poster/0818海報搭配調色.jpg",
 
                     title:
-                        "0818(教學臨摹)",
+                        "教學臨摹\n0818",
 
                     ai:
                         false
@@ -202,7 +202,7 @@
                         "images/poster/0818海報搭配調色-2.jpg",
 
                     title:
-                        "0818(教學臨摹)",
+                        "教學臨摹\n0818",
 
                     ai:
                         false
@@ -213,7 +213,7 @@
                         "images/poster/0819-2.jpg",
 
                     title:
-                        "0819",
+                        "月光甜室\n0819",
 
                     ai:
                         false
@@ -224,7 +224,7 @@
                         "images/poster/0820.jpg",
 
                     title:
-                        "0820",
+                        "城市的另一面\n0820",
 
                     ai:
                         false
@@ -235,7 +235,7 @@
                         "images/poster/0821.jpg",
 
                     title:
-                        "0821",
+                        "QUIET NIGHT\n0821",
 
                     ai:
                         false
@@ -245,7 +245,7 @@
                         "images/poster/0822.jpg",
 
                     title:
-                        "0822",
+                        "NOCTURNE\n0822",
 
                     ai:
                         false
@@ -255,7 +255,7 @@
                         "images/poster/0824-1.jpg",
 
                     title:
-                        "0824-1",
+                        "深海之夢\n0824",
 
                     ai:
                         false
@@ -265,7 +265,7 @@
                         "images/poster/0825.jpg",
 
                     title:
-                        "0825",
+                        "THE LOST MOON\n0825",
 
                     ai:
                         false
@@ -275,7 +275,7 @@
                         "images/poster/0826-2.jpg",
 
                     title:
-                        "0826-2",
+                        "BEFORE BLOOM\n0826",
 
                     ai:
                         false
@@ -285,7 +285,7 @@
                         "images/poster/0827.jpg",
 
                     title:
-                        "0827",
+                        "清晨兩點的咖啡\n0827",
 
                     ai:
                         false
@@ -295,7 +295,7 @@
                         "images/poster/0828.jpg",
 
                     title:
-                        "0828",
+                        "INVISIBLE\n0828",
 
                     ai:
                         false
@@ -305,7 +305,7 @@
                         "images/poster/0829.jpg",
 
                     title:
-                        "0829",
+                        "SLOW DOWN\n0829",
 
                     ai:
                         false
@@ -328,7 +328,7 @@
                         "images/card/0802-front.png",
 
                     title:
-                        "0802",
+                        "墨光設計\n0802",
 
                     ai:
                         false
@@ -340,7 +340,7 @@
                         "images/card/0802-back.png",
 
                     title:
-                        "0802",
+                        "墨光設計\n0802",
 
                     ai:
                         false
@@ -350,7 +350,7 @@
                         "images/card/0803-front.png",
 
                     title:
-                        "0803",
+                        "拾光花藝\n0803",
 
                     ai:
                         false
@@ -362,7 +362,7 @@
                         "images/card/0803-back.png",
 
                     title:
-                        "0803",
+                        "拾光花藝\n0803",
 
                     ai:
                         false
@@ -372,7 +372,7 @@
                         "images/card/0805-front.png",
 
                     title:
-                        "0805",
+                        "晨光咖啡\n0805",
 
                     ai:
                         false
@@ -384,7 +384,7 @@
                         "images/card/0805-back.png",
 
                     title:
-                        "0805",
+                        "晨光咖啡\n0805",
 
                     ai:
                         false
@@ -394,7 +394,7 @@
                         "images/card/0806-front.png",
 
                     title:
-                        "0806",
+                        "光影映象\n0806",
 
                     ai:
                         false
@@ -406,7 +406,7 @@
                         "images/card/0806-back.png",
 
                     title:
-                        "0806",
+                        "光影映象\n0806",
 
                     ai:
                         false
@@ -416,7 +416,7 @@
                         "images/card/0808-front.png",
 
                     title:
-                        "0808",
+                        "方寸建築\n0808",
 
                     ai:
                         false
@@ -428,7 +428,7 @@
                         "images/card/0808-back.png",
 
                     title:
-                        "0808",
+                        "方寸建築\n0808",
 
                     ai:
                         false
@@ -438,7 +438,7 @@
                         "images/card/0809-front.png",
 
                     title:
-                        "0809",
+                        "毛日子寵物美容\n0809",
 
                     ai:
                         false
@@ -450,7 +450,7 @@
                         "images/card/0809-back.png",
 
                     title:
-                        "0809",
+                        "毛日子寵物美容\n0809",
 
                     ai:
                         false
@@ -460,7 +460,7 @@
                         "images/card/0810-front.png",
 
                     title:
-                        "0810",
+                        "午後甜室\n0810",
 
                     ai:
                         false
@@ -472,7 +472,7 @@
                         "images/card/0810-back.png",
 
                     title:
-                        "0810",
+                        "午後甜室\n0810",
 
                     ai:
                         false
@@ -482,7 +482,7 @@
                         "images/card/0811-front.png",
 
                     title:
-                        "0811",
+                        "LÉN\n0811",
 
                     ai:
                         false
@@ -494,7 +494,7 @@
                         "images/card/0811-back.png",
 
                     title:
-                        "0811",
+                        "LÉN\n0811",
 
                     ai:
                         false
@@ -504,7 +504,7 @@
                         "images/card/0812-front-2.png",
 
                     title:
-                        "0812",
+                        "木序空間設計\n0812",
 
                     ai:
                         false
@@ -516,7 +516,7 @@
                         "images/card/0812-back.png",
 
                     title:
-                        "0812",
+                        "木序空間設計\n0812",
 
                     ai:
                         false
@@ -526,7 +526,7 @@
                         "images/card/0813-front.png",
 
                     title:
-                        "0813",
+                        "聲日音樂製作\n0813",
 
                     ai:
                         false
@@ -538,7 +538,7 @@
                         "images/card/0813-back.png",
 
                     title:
-                        "0813",
+                        "聲日音樂製作\n0813",
 
                     ai:
                         false
@@ -548,7 +548,7 @@
                         "images/card/0814-front.png",
 
                     title:
-                        "0814",
+                        "漫遊日誌\n0814",
 
                     ai:
                         false
@@ -560,7 +560,7 @@
                         "images/card/0814-back.png",
 
                     title:
-                        "0814",
+                        "漫遊日誌\n0814",
 
                     ai:
                         false
@@ -570,7 +570,7 @@
                         "images/card/0815-front.png",
 
                     title:
-                        "0815",
+                        "森之間\n0815",
 
                     ai:
                         false
@@ -582,7 +582,7 @@
                         "images/card/0815-back.png",
 
                     title:
-                        "0815",
+                        "森之間\n0815",
 
                     ai:
                         false
@@ -592,7 +592,7 @@
                         "images/card/0817-front.png",
 
                     title:
-                        "0817",
+                        "小鳥繪所\n0817(LOGO AI輔助)",
 
                     ai:
                         false
@@ -604,7 +604,7 @@
                         "images/card/0817-back.png",
 
                     title:
-                        "0817",
+                        "小鳥繪所\n0817",
 
                     ai:
                         false
@@ -614,7 +614,7 @@
                         "images/card/0818-front-2.png",
 
                     title:
-                        "0818(Logo概念由AI生成，經本人修改與優化)",
+                        "拾光婚禮\n0818(Logo AI輔助)",
 
                     ai:
                         false
@@ -626,7 +626,7 @@
                         "images/card/0818-back.png",
 
                     title:
-                        "0818",
+                        "拾光婚禮\n0818",
 
                     ai:
                         false
@@ -636,7 +636,7 @@
                         "images/card/0819-front-1.png",
 
                     title:
-                        "0819",
+                        "星塵遊戲工作室\n0819",
 
                     ai:
                         false
@@ -648,7 +648,7 @@
                         "images/card/0819-back.png",
 
                     title:
-                        "0819",
+                        "星塵遊戲工作室\n0819",
 
                     ai:
                         false
@@ -658,7 +658,7 @@
                         "images/card/0820-front.png",
 
                     title:
-                        "0820",
+                        "暮香研究室\n0820",
 
                     ai:
                         false
@@ -670,7 +670,7 @@
                         "images/card/0820-back.png",
 
                     title:
-                        "0820",
+                        "暮香研究室\n0820",
 
                     ai:
                         false
@@ -680,7 +680,7 @@
                         "images/card/0821-front.png",
 
                     title:
-                        "0821",
+                        "漫遊日常\n0821",
 
                     ai:
                         false
@@ -692,7 +692,7 @@
                         "images/card/0821-back.png",
 
                     title:
-                        "0821",
+                        "漫遊日常\n0821",
 
                     ai:
                         false
@@ -702,7 +702,7 @@
                         "images/card/0822-front.png",
 
                     title:
-                        "0822",
+                        "森系日常\n0822",
 
                     ai:
                         false
@@ -714,7 +714,7 @@
                         "images/card/0822-back.png",
 
                     title:
-                        "0822",
+                        "森系日常\n0822",
 
                     ai:
                         false
@@ -724,7 +724,7 @@
                         "images/card/0824-front-1.png",
 
                     title:
-                        "0824",
+                        "拾光婚禮\n0824",
 
                     ai:
                         false
@@ -736,7 +736,7 @@
                         "images/card/0824-back-1.png",
 
                     title:
-                        "0824",
+                        "拾光婚禮\n0824",
 
                     ai:
                         false
@@ -746,7 +746,7 @@
                         "images/card/0824-front-2.png",
 
                     title:
-                        "0824",
+                        "拾光婚禮\n0824",
 
                     ai:
                         false
@@ -758,7 +758,7 @@
                         "images/card/0824-back-2.png",
 
                     title:
-                        "0824",
+                        "拾光婚禮\n0824",
 
                     ai:
                         false
@@ -768,7 +768,7 @@
                         "images/card/0825-front-1.png",
 
                     title:
-                        "0825",
+                        "小島畫室\n0825",
 
                     ai:
                         false
@@ -780,7 +780,7 @@
                         "images/card/0825-back-1.png",
 
                     title:
-                        "0825",
+                        "小島畫室\n0825",
 
                     ai:
                         false
@@ -790,7 +790,7 @@
                         "images/card/0825-front-2.png",
 
                     title:
-                        "0825",
+                        "小島畫室\n0825",
 
                     ai:
                         false
@@ -802,7 +802,7 @@
                         "images/card/0825-back-2.png",
 
                     title:
-                        "0825",
+                        "小島畫室\n0825",
 
                     ai:
                         false
@@ -812,7 +812,7 @@
                         "images/card/0826-front.png",
 
                     title:
-                        "0826",
+                        "動序健身\n0826",
 
                     ai:
                         false
@@ -824,7 +824,7 @@
                         "images/card/0826-back.png",
 
                     title:
-                        "0826",
+                        "動序健身\n0826",
 
                     ai:
                         false
@@ -834,7 +834,7 @@
                         "images/card/0827-front.png",
 
                     title:
-                        "0827",
+                        "頁間書室\n0827",
 
                     ai:
                         false
@@ -846,7 +846,7 @@
                         "images/card/0827-back.png",
 
                     title:
-                        "0827",
+                        "頁間書室\n0827",
 
                     ai:
                         false
@@ -856,7 +856,7 @@
                         "images/card/0829-1-front.png",
 
                     title:
-                        "0829",
+                        "浮光動畫\n0829",
 
                     ai:
                         true
@@ -868,7 +868,7 @@
                         "images/card/0829-1-back.png",
 
                     title:
-                        "0829",
+                        "浮光動畫\n0829",
 
                     ai:
                         true
@@ -878,7 +878,7 @@
                         "images/card/0829-2-front.png",
 
                     title:
-                        "0829",
+                        "初研美學\n0829",
 
                     ai:
                         true
@@ -890,7 +890,7 @@
                         "images/card/0829-2-back.png",
 
                     title:
-                        "0829",
+                        "初研美學\n0829",
 
                     ai:
                         true
@@ -900,7 +900,7 @@
                         "images/card/0829-3-front.png",
 
                     title:
-                        "0829",
+                        "AN STUDIO\n0829",
 
                     ai:
                         true
@@ -912,7 +912,7 @@
                         "images/card/0829-3-back.png",
 
                     title:
-                        "0829",
+                        "AN STUDIO\n0829",
 
                     ai:
                         true
