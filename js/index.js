@@ -18,6 +18,46 @@
 
                 {
                     image:
+                        "images/poster/0820.jpg",
+
+                    title:
+                        "城市的另一面\n0820",
+
+                    ai:
+                        false
+                },
+                {
+                    image:
+                        "images/poster/0825.jpg",
+
+                    title:
+                        "THE LOST MOON\n0825",
+
+                    ai:
+                        false
+                },
+                {
+                    image:
+                        "images/poster/0827.jpg",
+
+                    title:
+                        "清晨兩點的咖啡\n0827",
+
+                    ai:
+                        false
+                },
+                {
+                    image:
+                        "images/poster/梅綠-2-0831.jpg",
+
+                    title:
+                        "梅子綠茶\n0831",
+
+                    ai:
+                        true
+                },     
+                {
+                    image:
                         "images/poster/0731.png",
 
                     title:
@@ -217,18 +257,7 @@
 
                     ai:
                         false
-                },
-
-                {
-                    image:
-                        "images/poster/0820.jpg",
-
-                    title:
-                        "城市的另一面\n0820",
-
-                    ai:
-                        false
-                },
+                },               
 
                 {
                     image:
@@ -259,17 +288,7 @@
 
                     ai:
                         false
-                },
-                {
-                    image:
-                        "images/poster/0825.jpg",
-
-                    title:
-                        "THE LOST MOON\n0825",
-
-                    ai:
-                        false
-                },
+                },                
                 {
                     image:
                         "images/poster/0826-2.jpg",
@@ -279,17 +298,7 @@
 
                     ai:
                         false
-                },
-                {
-                    image:
-                        "images/poster/0827.jpg",
-
-                    title:
-                        "清晨兩點的咖啡\n0827",
-
-                    ai:
-                        false
-                },
+                },                
                 {
                     image:
                         "images/poster/0828.jpg",
@@ -309,6 +318,26 @@
 
                     ai:
                         false
+                },
+                {
+                    image:
+                        "images/poster/梅綠-0831.jpg",
+
+                    title:
+                        "梅子綠茶\n0831",
+
+                    ai:
+                        true
+                },                                           
+                {
+                    image:
+                        "images/poster/波本威士忌-0901.jpg",
+
+                    title:
+                        "波本威士忌\n0901",
+
+                    ai:
+                        true
                 }
 
             ],
@@ -344,7 +373,73 @@
 
                     ai:
                         false
+                },     
+                {
+                    image:
+                        "images/card/0812-front-2.png",
+
+                    title:
+                        "木序空間設計\n0812",
+
+                    ai:
+                        false
                 },
+
+
+                {
+                    image:
+                        "images/card/0812-back.png",
+
+                    title:
+                        "木序空間設計\n0812",
+
+                    ai:
+                        false
+                },
+                {
+                    image:
+                        "images/card/0822-front.png",
+
+                    title:
+                        "森系日常\n0822",
+
+                    ai:
+                        false
+                },
+
+
+                {
+                    image:
+                        "images/card/0822-back.png",
+
+                    title:
+                        "森系日常\n0822",
+
+                    ai:
+                        false
+                },
+                {
+                    image:
+                        "images/card/0825-front-2.png",
+
+                    title:
+                        "小島畫室\n0825",
+
+                    ai:
+                        false
+                },
+
+
+                {
+                    image:
+                        "images/card/0825-back-2.png",
+
+                    title:
+                        "小島畫室\n0825",
+
+                    ai:
+                        false
+                },           
                 {
                     image:
                         "images/card/0803-front.png",
@@ -498,29 +593,7 @@
 
                     ai:
                         false
-                },
-                {
-                    image:
-                        "images/card/0812-front-2.png",
-
-                    title:
-                        "木序空間設計\n0812",
-
-                    ai:
-                        false
-                },
-
-
-                {
-                    image:
-                        "images/card/0812-back.png",
-
-                    title:
-                        "木序空間設計\n0812",
-
-                    ai:
-                        false
-                },
+                },                
                 {
                     image:
                         "images/card/0813-front.png",
@@ -663,8 +736,6 @@
                     ai:
                         false
                 },
-
-
                 {
                     image:
                         "images/card/0820-back.png",
@@ -685,8 +756,6 @@
                     ai:
                         false
                 },
-
-
                 {
                     image:
                         "images/card/0821-back.png",
@@ -696,29 +765,7 @@
 
                     ai:
                         false
-                },
-                {
-                    image:
-                        "images/card/0822-front.png",
-
-                    title:
-                        "森系日常\n0822",
-
-                    ai:
-                        false
-                },
-
-
-                {
-                    image:
-                        "images/card/0822-back.png",
-
-                    title:
-                        "森系日常\n0822",
-
-                    ai:
-                        false
-                },
+                },                
                 {
                     image:
                         "images/card/0824-front-1.png",
@@ -784,29 +831,7 @@
 
                     ai:
                         false
-                },
-                {
-                    image:
-                        "images/card/0825-front-2.png",
-
-                    title:
-                        "小島畫室\n0825",
-
-                    ai:
-                        false
-                },
-
-
-                {
-                    image:
-                        "images/card/0825-back-2.png",
-
-                    title:
-                        "小島畫室\n0825",
-
-                    ai:
-                        false
-                },
+                },                
                 {
                     image:
                         "images/card/0826-front.png",
@@ -961,7 +986,7 @@
 
                 {
                     image:
-                        "images/w/貓貓排版.jpg",
+                        "images/w/貓貓排版.png",
 
                     title:
                         "FAN ART｜粉絲二創"
@@ -983,13 +1008,30 @@
 
                 {
                     image:
+                        "images/other/森日咖啡菜單-2-0831.jpg",
+
+                    title:
+                        "森日咖啡廳-菜單\n0831",
+
+                    ai:
+                        true
+                },
+                {
+                    image:
+                        "images/other/森日咖啡聽菜單-0902.jpg",
+
+                    title:
+                        "森日咖啡廳-菜單\n0902",
+
+                    ai:
+                        false
+                },
+                {
+                    image:
                         "images/other/周邊-打卡框.png",
 
                     title:
-                        "打卡框",
-
-                    type:
-                        "vertical"
+                        "粉絲二創-打卡框",
                 },
 
 
@@ -998,10 +1040,7 @@
                         "images/other/代辦清單.png",
 
                     title:
-                        "代辦清單",
-
-                    type:
-                        "horizontal"
+                        "粉絲二創-代辦清單",
                 },
 
                 {
@@ -1009,52 +1048,36 @@
                         "images/other/雨傘.png",
 
                     title:
-                        "雨傘",
-
-                    type:
-                        "horizontal"
+                        "粉絲二創-雨傘",
                 },
                 {
                     image:
                         "images/other/0828-帽子.png",
 
                     title:
-                        "帽子",
-
-                    type:
-                        "horizontal"
+                        "粉絲二創-帽子",
                 },
                 {
                     image:
                         "images/other/周邊-平安符.png",
 
                     title:
-                        "平安符",
-
-                    type:
-                        "vertical"
+                        "粉絲二創-平安符",
                 },
                 {
                     image:
                         "images/other/方卡正面.png",
 
                     title:
-                        "方卡",
-
-                    type:
-                        "horizontal"
+                        "粉絲二創-方卡",
                 },
                 {
                     image:
                         "images/other/方卡背面.png",
 
                     title:
-                        "方卡",
-
-                    type:
-                        "horizontal"
-                },
-
+                        "粉絲二創-方卡",
+                }            
             ]
 
         };
