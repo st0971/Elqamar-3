@@ -986,7 +986,7 @@
 
                 {
                     image:
-                        "images/w/貓貓排版.png",
+                        "images/w/貓貓排版.jpg",
 
                     title:
                         "FAN ART｜粉絲二創"
@@ -1056,13 +1056,6 @@
 
                     title:
                         "粉絲二創-帽子",
-                },
-                {
-                    image:
-                        "images/other/周邊-平安符.png",
-
-                    title:
-                        "粉絲二創-平安符",
                 },
                 {
                     image:
