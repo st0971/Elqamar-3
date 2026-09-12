@@ -57,6 +57,14 @@
 
             </button>
 
+            <button
+                class="nav-btn"
+                onclick="showPage('brand', this)">
+
+                品牌
+
+            </button>
+
 
         </nav>
 
@@ -175,31 +183,46 @@
         <!-- =================================================
              其他
              ================================================= -->
-
         <section
             id="other"
             class="page">
-
-
             <h1 class="page-title">
-
                 其他
-
             </h1>
-
-
             <div
                 id="other-gallery"
                 class="gallery">
             </div>
-
-
             <div
                 id="other-pagination"
                 class="pagination">
             </div>
+        </section>
 
+         <!-- =================================================
+             品牌
+             ================================================= -->
+        <section
+            id="brand"
+            class="page">
+            <h1 class="page-title">
+                品牌應用(文案：AI輔助生成)
+            </h1>
 
+            <div id="brand-filters" class="filter-buttons">
+                <button class="filter-btn active" onclick="filterBrand('all')">全部作品</button>
+                <button class="filter-btn" onclick="filterBrand('brandA')">森系日常</button>
+                <button class="filter-btn" onclick="filterBrand('brandB')">午後甜室</button>
+            </div>
+            
+            <div
+                id="brand-gallery"
+                class="gallery">
+            </div>
+            <div
+                id="brand-pagination"
+                class="pagination">
+            </div>
         </section>
 
 
@@ -209,7 +232,7 @@
     <footer>
         © 2026 Elqamar
     </footer>
-    <script>
+    <!-- <script>
     // 禁用右鍵
     document.addEventListener('contextmenu', function (e) {
         e.preventDefault();
@@ -225,7 +248,7 @@
         e.preventDefault();
         }
     });
-    </script>
+    </script> -->
     <script src="js/index.js"></script>
 
     
