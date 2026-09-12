@@ -372,6 +372,8 @@
             line-height: 1.5;
 
             text-align: center;
+            /* 換行的 */
+            white-space: pre-line;
         }
 
 
@@ -677,3 +679,31 @@
             }
 
         }
+        /* 品牌分類按鈕容器 */
+.filter-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 20px 0 30px;
+    flex-wrap: wrap;
+}
+
+/* 分類按鈕基礎樣式 */
+.filter-btn {
+    padding: 8px 18px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    color: #333;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+/* 懸停與選取狀態 */
+.filter-btn:hover,
+.filter-btn.active {
+    background-color: #333;
+    color: #fff;
+    border-color: #333;
+}
